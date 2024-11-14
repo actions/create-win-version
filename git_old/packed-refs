@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+812cdcdce8ac2ac45125eb02b40a6e8ae9739bbb refs/remotes/origin/az-cli
+4a0b4ab1fb88e3c87565bc645a2837593612d56f refs/remotes/origin/main
+b2bf917d661e3e1f48a3ca9414ebd3c8dcef2513 refs/remotes/origin/rust-cargo
+6c68f398472e6efc44975c55ff57e8d917d77e11 refs/remotes/origin/vs-22-sign
+200b8266f74272c5fc54e48b1a6017d4b86198d3 refs/remotes/origin/windows-25
